@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1040118895100",
+    "project_id": "messenging-movil-2",
+    "storage_bucket": "messenging-movil-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040118895100:android:8d0e56688ba8ae1a72e279",
+        "android_client_info": {
+          "package_name": "com.example.mariana_gabriel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040118895100-ub10q9o9ueej9t4h452g4h08qpo0t5ht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1_PYiGi4CMQy_GMbN-nenA-TUg5vt0Xw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040118895100-ub10q9o9ueej9t4h452g4h08qpo0t5ht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
